@@ -19,7 +19,7 @@ html {
     scroll-behavior: smooth;
     touch-action: manipulation;
     min-height: --webkit-fill-available;
-    background-color:rgb(245, 245, 245);
+    background-color:#fff;
   }
   
   * {

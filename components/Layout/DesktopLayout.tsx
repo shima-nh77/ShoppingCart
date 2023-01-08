@@ -1,7 +1,7 @@
 import React, { ReactNode } from "react";
 
 import Head from "next/head";
-import DesktopHeader from "../Shared/Headers/DesktopHeader";
+import DesktopHeader from "../Shared/Header/DesktopHeader";
 
 type Props = {
   children?: ReactNode;

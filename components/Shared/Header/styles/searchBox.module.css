@@ -1,0 +1,24 @@
+.headerSearchbox {
+  max-width: 542px;
+}
+@media only screen and (min-width: 961px) and (max-width: 1024px) {
+  .headerSearchbox {
+    width: 300px;
+  }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+  .headerSearchbox {
+    width: 400px;
+  }
+}
+@media only screen and (min-width: 1201px) and (max-width: 1280px) {
+  .headerSearchbox {
+    width: 500px;
+  }
+}
+
+@media only screen and (min-width: 1281px) {
+  .headerSearchbox {
+    width: 542px;
+  }
+}

@@ -1,5 +1,5 @@
 import ProductsListPage from "../components/ProductsListPage";
-import DesktopHeader from "../components/Shared/Headers/DesktopHeader";
+import DesktopHeader from "../components/Shared/Header/DesktopHeader";
 
 const IndexPage = () => {
   return (
